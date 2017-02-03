@@ -10,7 +10,7 @@ import options from 'eslint/lib/options';
 * Local dependencies
 **/
 import Linter from './linter';
-import { formatTotal } from './formatter';
+import { formatTotal } from './formatte
 
 function translateOptions(cliOptions) {
   return {
